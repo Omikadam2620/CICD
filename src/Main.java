@@ -7,6 +7,7 @@ public class Main {
 		System.err.println("Failed Deployment for second time");
 		Contoller contoller = new Contoller();
 		contoller.name();
+		System.out.println("change lotty file");
 	}
 	
 }
